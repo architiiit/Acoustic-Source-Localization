@@ -15,8 +15,7 @@ This repository contains the code and resources developed as part of my honours 
    git clone git@github.com:architiiit/Acoustic-Source-Localization.git
 
 2. **Navigate to the project directory**:
-```bash
-cd Acoustic-Source-Localization
+`Acoustic-Source-Localization`
 
 
 3. Run the codes present in different folders to understand the implementation and functionality of different algorithms.
