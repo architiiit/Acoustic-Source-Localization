@@ -10,8 +10,9 @@ This repository contains the code and resources developed as part of my honours 
 - **README.md**: This file providing an overview of the project and instructions for usage.
 
 ## Usage
-1. Clone the repository to your local machine using the command:
-git clone git@github.com:architiiit/Acoustic-Source-Localization.git
+1. **Clone the repository**: 
+   ```bash
+   git clone git@github.com:architiiit/Acoustic-Source-Localization.git
 
 2. Navigate to the project directory:
 cd Acoustic-Source-Localization
